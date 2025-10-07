@@ -1,3 +1,5 @@
+thread: 12
+
 Times for 10 vertices and 50 connections: 
 Serial: 0
 Parallel: 2
